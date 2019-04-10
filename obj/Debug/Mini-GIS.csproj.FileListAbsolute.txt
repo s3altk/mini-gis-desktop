@@ -1,0 +1,10 @@
+C:\Users\TkachevSAl\Documents\GitHub\mini-gis-desktop\bin\Debug\miniGIS.exe.config
+C:\Users\TkachevSAl\Documents\GitHub\mini-gis-desktop\bin\Debug\miniGIS.exe
+C:\Users\TkachevSAl\Documents\GitHub\mini-gis-desktop\bin\Debug\miniGIS.pdb
+C:\Users\TkachevSAl\Documents\GitHub\mini-gis-desktop\obj\Debug\Mini-GIS.csprojAssemblyReference.cache
+C:\Users\TkachevSAl\Documents\GitHub\mini-gis-desktop\obj\Debug\miniGIS.Main.resources
+C:\Users\TkachevSAl\Documents\GitHub\mini-gis-desktop\obj\Debug\miniGIS.Properties.Resources.resources
+C:\Users\TkachevSAl\Documents\GitHub\mini-gis-desktop\obj\Debug\Mini-GIS.csproj.GenerateResource.cache
+C:\Users\TkachevSAl\Documents\GitHub\mini-gis-desktop\obj\Debug\Mini-GIS.csproj.CoreCompileInputs.cache
+C:\Users\TkachevSAl\Documents\GitHub\mini-gis-desktop\obj\Debug\miniGIS.exe
+C:\Users\TkachevSAl\Documents\GitHub\mini-gis-desktop\obj\Debug\miniGIS.pdb
